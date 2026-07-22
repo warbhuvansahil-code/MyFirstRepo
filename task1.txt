@@ -1,1 +1,39 @@
- 
+ # AWS (Amazon Web Services) 
+
+**AWS** is Amazon's cloud computing platform offering 200+ services for compute, storage, networking, databases, AI/ML, and more.
+
+## Key Service Categories:
+
+**Compute**
+- **EC2**: Virtual machines (servers)
+- **Lambda**: Serverless functions (pay per execution)
+- **ECS/EKS**: Container orchestration
+
+**Storage**
+- **S3**: Object storage (files, backups, static sites)
+- **EBS**: Block storage (hard drives for EC2)
+- **Glacier**: Long-term archival storage
+
+**Databases**
+- **RDS**: Managed relational databases (MySQL, PostgreSQL, etc.)
+- **DynamoDB**: NoSQL database
+- **ElastiCache**: In-memory caching
+
+**Networking**
+- **VPC**: Virtual private networks
+- **CloudFront**: Content delivery network (CDN)
+- **Route 53**: DNS management
+
+**Other Popular Services**
+- **IAM**: Identity and access management
+- **CloudWatch**: Monitoring and logging
+- **SNS/SQS**: Messaging and queues
+- **Cognito**: User authentication
+- **SageMaker**: Machine learning
+
+## Pricing Model:
+- **Pay-as-you-go**: Charged only for what you use
+- **No upfront costs** (usually)
+- **Regional pricing variations**
+
+AWS is the market leader in cloud computing, trusted by startups to enterprises for scalable, reliable infrastructure.
