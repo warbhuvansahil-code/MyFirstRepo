@@ -37,3 +37,6 @@
 - **Regional pricing variations**
 
 AWS is the market leader in cloud computing, trusted by startups to enterprises for scalable, reliable infrastructure.
+
+## Monitoring
+- **CloudWatch**: Tracks AWS resources, applications, and operational metrics.
