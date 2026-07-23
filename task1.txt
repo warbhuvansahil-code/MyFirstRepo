@@ -37,3 +37,4 @@
 - **Regional pricing variations**
 
 AWS is the market leader in cloud computing, trusted by startups to enterprises for scalable, reliable infrastructure.
+- Added a note about AWS security.
