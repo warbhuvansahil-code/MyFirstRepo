@@ -34,7 +34,7 @@
 ## Pricing Model:
 - **Pay-as-you-go**: Charged only for what you use
 - **No upfront costs** (usually)
-- **Regional pricing variations**
+- **Regional pricing variations**   hdfjhs
 
 AWS is the market leader in cloud computing, trusted by startups to enterprises for scalable, reliable infrastructure.
 - Added a note about AWS security.
