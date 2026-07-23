@@ -37,4 +37,6 @@
 - **Regional pricing variations**   hdfjhs
 
 AWS is the market leader in cloud computing, trusted by startups to enterprises for scalable, reliable infrastructure.
-- Added a note about AWS security.
+
+## Monitoring
+- **CloudWatch**: Tracks AWS resources, applications, and operational metrics.
