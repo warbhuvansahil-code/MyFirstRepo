@@ -41,3 +41,6 @@ AWS is the market leader in cloud computing, trusted by startups to enterprises 
 
 I want to learn AWS.
 - Added a note about AWS security.
+
+## Monitoring
+- **CloudWatch**: Tracks AWS resources, applications, and operational metrics.
