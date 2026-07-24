@@ -13,7 +13,7 @@
 - **S3**: Object storage (files, backups, static sites)
 - **EBS**: Block storage (hard drives for EC2)
 - **Glacier**: Long-term archival storage
-
+hkhsr
 **Databases**
 - **RDS**: Managed relational databases (MySQL, PostgreSQL, etc.)
 - **DynamoDB**: NoSQL database
